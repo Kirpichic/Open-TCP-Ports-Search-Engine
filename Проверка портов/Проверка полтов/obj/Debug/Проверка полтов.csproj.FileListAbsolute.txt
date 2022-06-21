@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\bin\Debug\Проверка полтов.exe.config
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\bin\Debug\Проверка полтов.exe
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\bin\Debug\Проверка полтов.pdb
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка_полтов.TestPort1.resources
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка_полтов.Properties.Resources.resources
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.exe
+D:\Visual Studio 2022\Projects\Проверка портов\Проверка полтов\obj\Debug\Проверка полтов.pdb
